@@ -1,7 +1,7 @@
 jdg-disaster-recovery-primary
 =============================
 
-These are a working examples of the configuration files needed to setup JBoss Data Grid for a disaster recovery between datacenters (primary and backup sites).
+These are working examples of the configuration files needed to setup JBoss Data Grid for a disaster recovery between datacenters (primary and backup sites).
 
 Sample JBoss Data Grid code is not included. However, the files to setup disaster recovery recovery between datacenters are all included:
 - Cache configuration
