@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelayConfiguration>
+	<sites>
+		<site name="DC1" id="0">
+			<bridges>
+				<bridge config="jgroups-global.xml" name="global" />
+			</bridges>
+		</site>
+		<site name="DC2" id="1">
+			<bridges>
+				<bridge config="jgroups-global.xml" name="global" />
+			</bridges>
+		</site>
+	</sites>
+</RelayConfiguration>
